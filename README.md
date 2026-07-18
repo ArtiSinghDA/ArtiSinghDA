@@ -54,7 +54,4 @@ Statistical and time-series analysis of crime-against-women data in India (2001â
 
 ---
 
-
----
-
 <p align="center"><i>Open to Data Analyst / Business Analyst opportunities across India â€” let's connect!</i></p>

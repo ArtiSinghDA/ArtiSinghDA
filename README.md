@@ -54,12 +54,6 @@ Statistical and time-series analysis of crime-against-women data in India (2001â
 
 ---
 
-### ğŸ“ˆ GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArtiSinghDA&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtiSinghDA&layout=compact" height="165" />
-</p>
 
 ---
 

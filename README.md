@@ -54,6 +54,7 @@ Statistical and time-series analysis of crime-against-women data in India (2001�
 
 **[Customer Churn Analytics Platform](https://github.com/ArtiSinghDA/customer-churn-analytics-platform)**
 End-to-end churn analytics pipeline across Python, SQL (Medallion Architecture), Machine Learning, Power BI, Excel, and Tableau — using the Telco Customer Churn dataset. Findings cross-validated across all tools; highest-risk segment identified at 54.61% churn.
+
 ---
 
 <p align="center"><i>Open to Data Analyst / Business Analyst opportunities across India — let's connect!</i></p>

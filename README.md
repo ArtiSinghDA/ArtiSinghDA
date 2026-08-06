@@ -55,11 +55,8 @@ Statistical and time-series analysis of crime-against-women data in India (2001�
 **[Customer Churn Analytics Platform](https://github.com/ArtiSinghDA/customer-churn-analytics-platform)**
 End-to-end churn analytics pipeline across Python, SQL (Medallion Architecture), Machine Learning, Power BI, Excel, and Tableau — using the Telco Customer Churn dataset. Findings cross-validated across all tools; highest-risk segment identified at 54.61% churn.
 
-### 📊 Superstore Profitability Analysis
-End-to-end data analytics project investigating regional and category profitability for a retail Superstore using Python (Pandas, NumPy, Matplotlib, scikit-learn). Identified a discount threshold (20%) beyond which orders consistently turn loss-making, and built a Logistic Regression model achieving 96% recall in flagging loss-making orders.
-
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib, scikit-learn  
-🔗 [View Repository](https://github.com/ArtiSinghDA/superstore-profitability-analysis)
+**[Superstore Profitability Analysis](https://github.com/ArtiSinghDA/superstore-profitability-analysis)**
+End-to-end data analytics project investigating regional and category profitability for a retail Superstore using Python (Pandas, NumPy, Matplotlib, scikit-learn). Identified a 20% discount threshold beyond which orders consistently turn loss-making, and built a Logistic Regression model achieving 96% recall in flagging loss-making orders.
 
 
 ---
